@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "danz, _danz, _danZ, 蛋总, pro, javascript, fe, developer, coder, engineer, geek"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -14,7 +14,7 @@ keywords: "Hexo, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2013
 
 # Canonical, set a canonical link tag in your hexo, you could use it for your SEO of blog.
 # See: https://support.google.com/webmasters/answer/139066
@@ -33,7 +33,7 @@ menu:
   #about: /about
   archives: /archives
   tags: /tags
-  schedule: /schedule
+  # schedule: /schedule
   #commonweal: /404.html
 
 
@@ -55,15 +55,14 @@ menu_icons:
 
 
 
-
 # ---------------------------------------------------------------
 # Scheme Settings
 # ---------------------------------------------------------------
 
 # Schemes
 scheme: Muse
-#scheme: Mist
-#scheme: Pisces
+# scheme: Mist
+# scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -125,6 +124,12 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
   #LinkLabel: Link
+social:
+  GitHub: https://github.com/MrRaindrop
+  Twitter: https://twitter.com/__MrRaindrop__
+  微博: http://weibo.com/rurouni
+  # 豆瓣: http://douban.com/
+  # 知乎: http://www.zhihu.com/people/your-user-name
 
 
 # Social Links Icons
@@ -159,7 +164,7 @@ toc:
 # http://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
 #creative_commons: by-nc-sa
-#creative_commons:
+creative_commons: by-nc-sa
 
 
 sidebar:
@@ -413,6 +418,11 @@ vendors:
 css: css
 js: js
 images: images
+
+# 打赏
+# reward_comment: 打赏喵粮~
+# wechatpay: ./source/images/reward_weixin.jpeg
+# alipay: ./source/images/reward_alipay.jpeg
 
 # Theme version
 version: 5.0.2
