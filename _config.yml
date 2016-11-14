@@ -202,7 +202,7 @@ sidebar:
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: false
-  image:
+  image: /logo.jpg
 
 
 # Code Highlight theme
@@ -249,7 +249,7 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-#duoshuo_shortname:
+duoshuo_shortname: danzpro
 
 # Disqus
 #disqus_shortname:
@@ -271,11 +271,11 @@ mathjax:
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-#google_site_verification:
+google_site_verification: IaiRm0L-dEXHklGczNGU_A7x9pLpmLSx-ft5nH5oYWA
 
 
 # Google Analytics
-#google_analytics:
+google_analytics:
 
 # CNZZ count
 #cnzz_siteid:
